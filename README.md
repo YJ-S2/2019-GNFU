@@ -1,8 +1,8 @@
 # 2019-GNFU
 
-⚡ 2019-DataBaseProgramming Project
+⚡ 2019-DBP Project (DataBase Programming)
 
-🏥 지니포유 GNFU (Gyn + info + you)
+<h3> 🏥 지니포유 GNFU (Gyn + info + you) </h3>
 </br></br>
 ☑️ ‘지니포유’는 병원에서 처방받은 처방전에 기재되어 있는 질병분류기호를 이용하여 진단받은 질병을 검색하고, <br>
     자신의 진단 정보를 저장함으로써 의료정보에 대한 쉬운 접근과 개인의 건강 정보 관리를 목적으로 하고 있다. <br> <br>
